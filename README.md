@@ -6,7 +6,7 @@ See Chapter 6 of A First Course in the Finite Element Method by Logan (2022).
 
 ![image](https://user-images.githubusercontent.com/104728656/224531276-791b54d4-3bab-4aab-88de-0fd711642e56.png)
 
-## Verification
+## Verification with Beam Theory
 
 ![image](https://user-images.githubusercontent.com/104728656/224531513-f4cfe949-81c5-496b-8220-c9fbe2a28fbe.png)
 
