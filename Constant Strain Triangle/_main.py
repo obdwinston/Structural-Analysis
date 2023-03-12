@@ -283,7 +283,7 @@ S = Sv  # change stress
 cmap = mpl.cm.jet
 norm = mpl.colors.Normalize(vmin=min(S), vmax=max(S))
 ticks = np.linspace(min(S), max(S), 10)
-fig.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap), cax=ax2, orientation='horizontal', label='Stress [MPa]', ticks=ticks)
+fig.colorbar(mpl.cm.ScalarMappable(norm=norm, cmap=cmap), cax=ax2, orientation='horizontal', label='Stress [Pa]', ticks=ticks)
 
 for i in range(n_cells):
     x1 = nodes[cells[i][0]][0]
