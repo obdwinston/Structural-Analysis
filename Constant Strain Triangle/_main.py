@@ -121,9 +121,9 @@ for i in range(n_cells):
         y3 = nodes[cells[i][2]][1]
         plt.plot([x1, x2, x3, x1], [y1, y2, y3, y1], c='k', linewidth=0.5)
 
-        ccx = (x1 + x2 + x3)/3
-        ccy = (y1 + y2 + y3)/3
-        plt.text(ccx, ccy, i, c='b', horizontalalignment='center', verticalalignment='center')
+        # ccx = (x1 + x2 + x3)/3
+        # ccy = (y1 + y2 + y3)/3
+        # plt.text(ccx, ccy, i, c='b', horizontalalignment='center', verticalalignment='center')
 
 plt.axis('equal')
 plt.grid('on')
