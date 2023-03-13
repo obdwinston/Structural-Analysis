@@ -21,9 +21,6 @@ for i in range(len(Np)):
     else:
         Fp.append([0., -2*Fs])
 
-print(len(Fp))
-print(Fp)
-
 # program start
 
 file = open(mesh, 'r')
