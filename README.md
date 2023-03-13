@@ -2,9 +2,7 @@
 
 See Chapter 6 of A First Course in the Finite Element Method by Logan (2022).
 
-![image](https://user-images.githubusercontent.com/104728656/224660520-cde6bfe5-7caa-4c7b-9817-34c89354663c.png)
-
-![image](https://user-images.githubusercontent.com/104728656/224660543-d7d59987-f4c2-4f8e-821f-e8348a2d9f68.png)
+![result](https://user-images.githubusercontent.com/104728656/224663816-f7f44bd3-8b1a-4254-823f-84d90c6b0faf.png)
 
 ## Verification with Beam Theory
 
