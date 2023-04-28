@@ -14,4 +14,4 @@
 
 ## Theory
 
-![image](https://user-images.githubusercontent.com/104728656/227091750-31ffc815-69f7-4235-9f08-1622f515cea8.png)
+![image](https://user-images.githubusercontent.com/104728656/235164890-d6d06c19-5824-4501-a17d-510fcaaf1c31.png)
