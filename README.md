@@ -8,7 +8,7 @@ See Chapter 6 of A First Course in the Finite Element Method by Logan (2022).
 
 ![image](https://user-images.githubusercontent.com/104728656/227091750-31ffc815-69f7-4235-9f08-1622f515cea8.png)
 
-## Beam Theory Verification
+# Beam Theory Verification
 
 ![image](https://user-images.githubusercontent.com/104728656/224548536-1d566662-72ff-4d00-81b2-32e572732296.png)
 
