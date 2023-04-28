@@ -1,7 +1,5 @@
 # Constant Strain Triangle
 
-See Chapter 6 of A First Course in the Finite Element Method by Logan (2022).
-
 ## Examples
 
 ![image](https://user-images.githubusercontent.com/104728656/224663816-f7f44bd3-8b1a-4254-823f-84d90c6b0faf.png)
