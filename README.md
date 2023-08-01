@@ -1,6 +1,6 @@
 # Constant Strain Triangle
 
-![wrench](https://github.com/obdwinston/Structural-Analysis/assets/104728656/79bad5e7-72e3-4605-8943-e4b8d132ab10)
+![image](https://github.com/obdwinston/Structural-Analysis/assets/104728656/79bad5e7-72e3-4605-8943-e4b8d132ab10)
 
 ![image](https://user-images.githubusercontent.com/104728656/224663816-f7f44bd3-8b1a-4254-823f-84d90c6b0faf.png)
 
